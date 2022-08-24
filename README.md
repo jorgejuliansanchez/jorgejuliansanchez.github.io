@@ -11,5 +11,3 @@ La **Georeferencia** (latitud, longitud, altitud e instante), la **Perspectiva v
 <img src="https://github.com/jorge4d/planeta4d/blob/main/images/Medellin4D_img.jpg" alt="Medellin4D" width="256px" height="256px" />
 
 ### Colaboracion Virtual 
-### Inmersion en la 4D
-d.htm)
