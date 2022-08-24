@@ -1,6 +1,9 @@
-# Planeta4D
-|<img src="https://jorgejuliansanchez.github.io/Planeta4D_img.jpg" width="256px" height="256px" />|<img src="https://jorgejuliansanchez.github.io/Andes4D_img.jpg" alt="Andes4D" width="256px" height="256px" />|<img src="https://jorgejuliansanchez.github.io/Medellin4D_img.jpg" alt="Medellin4D" width="256px" height="256px" />|
-
+# 
+<img src="https://jorgejuliansanchez.github.io/Planeta4D_img.jpg" width="256px" height="256px" /><img src="https://jorgejuliansanchez.github.io/Andes4D_img.jpg" alt="Andes4D" width="256px" height="256px" /><img src="https://jorgejuliansanchez.github.io/Medellin4D_img.jpg" alt="Medellin4D" width="256px" height="256px" />
+|          ||
+| Planeta4D|-180,90|-180,-90|Hemisferio Occidental|
+| Andes4D  ||
+|Medellin4D||
 
 ## La Cuarta Dimensión
 La **Georeferencia** (latitud, longitud, altitud e instante), la **Perspectiva visual cónica** (desde un punto de vista y con un punto de fuga en el centro) y la **Nube** (internet y servicios en la nube)
