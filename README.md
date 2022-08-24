@@ -2,7 +2,7 @@
 ## La Cuarta Dimensión
 La **Georeferencia** (latitud, longitud, altitud e instante), la **Perspectiva visual cónica** (desde un punto de vista y con un punto de fuga en el centro) y la **Nube** (internet y servicios en la nube)
 ##### ***Planeta4D*** : {[-180,90,0 0,90,0 0,-90,0 -180,-90,0 -180,90,0]} (Hemisferio Occidental)
-<img src="https://github.com/jorgejuliansanchez/jorgejuliansanchez.github.io/blob/main/Planeta4D_img.jpg width="256px" height="256px" />
+<img src="https://github.com/jorgejuliansanchez/jorgejuliansanchez.github.io/blob/main/Planeta4D_img.jpg" width="256px" height="256px" />
 
 ##### ***Andes4D***   : {[ -82,-5,0 -62,-5,0 -62,15,0 -82,15,0 -82,-5,0]} (Ecuador Colombia Venezuela)
 <img src="https://github.com/jorge4d/planeta4d/blob/main/images/Andes4D_img.jpg" alt="Andes4D" width="256px" height="256px" />
