@@ -2,11 +2,11 @@
 
 | Espacio  | Desde |  Hasta |         Cubre            |
 |:--------:|:-----:|:------:|:------------------------:|                    
-| Planeta4D|- 180,90|-10,-90|Hemisferio Occidental     | 
+| Planeta4D|- 180,90|  0,-90|Hemisferio Occidental     | 
 | Andes4D  | -82,15| -82,-5 |Ecuador Colombia Venezuela|
 |Medellin4D|-75.750,6.512|-75.238,6.000|Sopetrán San Jerónimo San Cristóbal San Félix San Pedro de los Milagros Don Matías Barbosa Girardota Copacabana Bello Medellín Envigado Sabaneta Itaguí La Estrella Caldas Amagá Guarne Marinilla Rionegro El Cármen de Viboral La Ceja El Retiro Santa Elena Las Palmas La Fé|
 
 ## La Cuarta Dimensión
 - **Georeferencia** (latitud, longitud, altitud e instante), 
 - **Perspectiva visual cónica** (desde un punto de vista y con un punto de fuga en el centro),
-- **Nube** (internet y servicios en la nube).
+- **Nube** (internet y APIs).
