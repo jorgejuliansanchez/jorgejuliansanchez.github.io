@@ -1,4 +1,4 @@
-<img src="https://jorgejuliansanchez.github.io/Planeta4D_img.jpg" width="256px" height="256px" /><img src="https://jorgejuliansanchez.github.io/Andes4D_img.jpg" alt="Andes4D" width="256px" height="256px" /><img src="https://jorgejuliansanchez.github.io/Medellin4D_img.jpg" alt="Medellin4D" width="256px" height="256px" />
+<img src="https://jorgejuliansanchez.github.io/Planeta4D_img.jpg" width="256px" height="256px" /><img src="https://jorgejuliansanchez.github.io/Andes4D_img.jpg" alt="Andes4D" width="256px" height="256px" /><img src="https://jorgejuliansanchez.github.io/Medellin4D.jpg" alt="Medellin4D" width="256px" height="256px" />
 
 | Espacio  | Desde |  Hasta |         Cubre            |
 |:--------:|:------:|:------:|:------------------------:|                    
